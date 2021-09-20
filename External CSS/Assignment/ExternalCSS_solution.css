@@ -1,0 +1,17 @@
+body{
+    background-color: lightslategray;
+}
+h1{
+    color: red;
+    font-style: italic;
+    text-align: center;
+    border: 2px solid blue;
+}
+.poster{
+    display: block;
+    width: 500px;
+    height: 300px;
+    position:relative;
+    margin: 0px auto;
+    border: 2px solid  white;
+}

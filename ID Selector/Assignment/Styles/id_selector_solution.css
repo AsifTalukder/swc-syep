@@ -1,0 +1,29 @@
+#background {
+    background-image: url(../Images/background.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#forMovieTitle {
+    text-align: center;
+    font-size: 36px;
+    font-family: cursive;
+    border: 2px solid powderblue;
+}
+#forIntroductionHeading {
+    font-size: 24px;
+    font-family: Impact;
+}
+#forCharactersHeading {
+    font-size: 24px;
+    font-family: Impact;
+}
+#forP1 {
+    font-weight: bold;
+    font-size: 20px;
+}
+#forList {
+    font-size: 20px;
+    font-weight: bold;
+}

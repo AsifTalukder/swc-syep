@@ -1,0 +1,18 @@
+body{
+    background-color:wheat;
+}
+h1{
+    background-color:#9ac893;
+}
+h2{
+    background-color: #4169e1;
+}
+h3{
+    background-color: rgb(141, 85, 192);
+}
+#notran{
+    background-color:#ff0000;
+}
+#tran{
+    background-color: #ff000080;
+}

@@ -1,0 +1,51 @@
+h1 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    text-transform: uppercase;
+}
+
+#bioInfoH2 {
+    text-align: center;
+    text-shadow: 3px 3px 3px lightskyblue;
+    text-transform: uppercase;
+}
+
+#bioInfoP {
+    text-align: center;
+    white-space: pre;
+    color: blanchedalmond;
+    background-color: cadetblue;
+    line-height: 1.5;
+}
+
+#bioH2 {
+    text-align: left;
+    text-shadow: 3px 3px 3px lightpink;
+    text-transform: uppercase;
+}
+
+#bioP {
+    text-align: justify;
+    white-space: pre-line;
+    color: blanchedalmond;
+    background-color: cadetblue;
+    line-height: 1.5;
+}
+
+#appearanceH2 {
+    text-align: right;
+    text-shadow: 3px 3px 3px lightsalmon;
+    text-transform: uppercase;
+}
+
+#appearanceP {
+    text-align: justify;
+    white-space: pre-line;
+    color: blanchedalmond;
+    background-color: cadetblue;
+    line-height: 1.5;
+}

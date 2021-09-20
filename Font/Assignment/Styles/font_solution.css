@@ -1,0 +1,11 @@
+#p1 {
+    font: bold small-caps 24px "Times New Roman", Serif;
+}
+
+#p2 {
+    font: italic 900 1.5em "Courier New", Monospace;
+}
+
+#p3 {
+    font: italic small-caps 20pt Papyrus, Fantasy;
+}

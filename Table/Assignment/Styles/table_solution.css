@@ -1,0 +1,27 @@
+table, th, td {
+    border-bottom: 1px solid grey;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: bottom;
+    white-space: nowrap;
+}
+
+th {
+    height: 40px;
+    background: green;
+    color: white;
+}
+
+td {
+    height: 30px
+}
+
+tr:hover {
+    background: lightgrey;
+}
+
+div {
+    overflow-x: auto;
+}

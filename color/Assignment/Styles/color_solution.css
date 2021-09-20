@@ -1,0 +1,43 @@
+body{
+    background-color:blanchedalmond;
+}
+.first{
+    background-color: yellow;
+}
+#pikachu-img{
+    display: block;
+    position: static;
+    border: 2px solid red;
+    margin: 0px auto;
+}
+.second{
+    background-color: #663399;
+}
+#gengar-img{
+    display: block;
+    position: static;
+    border: 2px solid red;
+    margin: 0px auto;
+}
+.third{
+    background-color: rgb(128, 180, 199);
+}
+
+#luxray-img{
+    display: block;
+    position: static;
+    border: 2px solid black;
+    margin: 0px auto;
+}
+h2{
+    text-align: center;  
+}
+#pikachu-txt{
+    color:coral ;
+}
+#gengar-txt{
+    color:#b8860b;
+}
+#luxray-txt{
+    color: rgb(212, 175, 55)
+}

@@ -1,0 +1,32 @@
+#background {
+    background-image: url(../Images/background.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#forMovieTitle {
+    text-align: center;
+    color: green;
+    font-size: 36px;
+    font-family: cursive;
+    border: 2px solid green;
+}
+h2.forHeading2 {
+    text-align: center;
+    font-size: 24px;
+    font-family: Impact;
+}
+p.forParagraph {
+    text-align: center;
+    color: orchid;
+    font-weight: bold;
+    font-size: 20px;
+}
+ul.forUnorderedList { 
+    display: table;
+    margin: auto;
+    font-size: 20px;
+    color: orchid;
+    font-weight: bold;
+}

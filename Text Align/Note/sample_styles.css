@@ -1,0 +1,18 @@
+h1{
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
+h4{
+    text-align: start;
+}
+h5{
+    text-align: end;
+}
+p{
+    text-align: justify;
+}
